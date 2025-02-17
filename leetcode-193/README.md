@@ -1,25 +1,7 @@
-# Leedcode 193: Valid Phone Numbers
+# LeedCode Problem 193: Valid Phone Numbers
 
 ## Problem Statement
-Given a text file `file.txt` that contains a list of phone numbers (one per line), write a **one-liner bash script** to print all valid phone numbers.
-
-A valid phone number must be in one of the following formats:
-- `(xxx) xxx-xxxx`
-- `xxx-xxx-xxxx`
-
-Example:
-**Input (`file.txt`)**
-```
-987-123-4567
-123 456 7890
-(123) 456-7890
-```
-
-**Output:**
-```
-987-123-4567
-(123) 456-7890
-```
+[LeedCode Problem - Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/)
 
 ## Solutions
 
